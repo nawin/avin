@@ -7,6 +7,8 @@
       "longtitude": 13.904,
       "skill": "teach golf",
       "job": "business consultant"
+      "friends": 2
+
     },
     
     {
@@ -16,6 +18,7 @@
       "longtitude": 13.906,
       "skill": "business consultant",
       "job": "teach golf"
+      "friends": 1
     },
     {
       "id": 3,
@@ -24,6 +27,7 @@
       "longtitude": 13.904,
       "skill": "sell game",
       "job": "teach golf"
+      "friends": 1
     },
     {
       "id": 4,
@@ -32,6 +36,7 @@
       "longtitude": 13.905,
       "skill": "teach golf",
       "job": "business consultant"
+      "friends": 1
     }
   ]
 }
